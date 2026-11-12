@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 6f32438318938be43a97c7a7a1a14b15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6134392202987566718
+    second: half_open_gothic_treasure_chest_sprite_0
+  - first:
+      213: -2096825925234142156
+    second: half_open_gothic_treasure_chest_sprite_1
+  - first:
+      213: 1962456367173796147
+    second: half_open_gothic_treasure_chest_sprite_2
+  - first:
+      213: -832219234273864193
+    second: half_open_gothic_treasure_chest_sprite_3
+  - first:
+      213: -3558613893988655561
+    second: half_open_gothic_treasure_chest_sprite_4
+  - first:
+      213: -1493263659195963764
+    second: half_open_gothic_treasure_chest_sprite_5
+  - first:
+      213: 5597182816633327247
+    second: half_open_gothic_treasure_chest_sprite_6
+  - first:
+      213: 5896829984295593566
+    second: half_open_gothic_treasure_chest_sprite_7
+  - first:
+      213: 8248242300352360566
+    second: half_open_gothic_treasure_chest_sprite_8
+  - first:
+      213: -3792196470344558762
+    second: half_open_gothic_treasure_chest_sprite_9
+  - first:
+      213: 135036851569691950
+    second: half_open_gothic_treasure_chest_sprite_10
+  - first:
+      213: -6514531632168908239
+    second: half_open_gothic_treasure_chest_sprite_11
+  - first:
+      213: -4647519292959931575
+    second: half_open_gothic_treasure_chest_sprite_12
+  - first:
+      213: 1480194786955506330
+    second: half_open_gothic_treasure_chest_sprite_13
+  - first:
+      213: 133802688032028284
+    second: half_open_gothic_treasure_chest_sprite_14
+  - first:
+      213: 6378233542402826980
+    second: half_open_gothic_treasure_chest_sprite_15
+  - first:
+      213: 1433012285152748363
+    second: half_open_gothic_treasure_chest_sprite_16
+  - first:
+      213: 822575268922898089
+    second: half_open_gothic_treasure_chest_sprite_17
+  - first:
+      213: 4601033640741301902
+    second: half_open_gothic_treasure_chest_sprite_18
+  - first:
+      213: -5697648697029297873
+    second: half_open_gothic_treasure_chest_sprite_19
+  - first:
+      213: 8357096469287616155
+    second: half_open_gothic_treasure_chest_sprite_20
+  - first:
+      213: -4116766315357537044
+    second: half_open_gothic_treasure_chest_sprite_21
+  - first:
+      213: -2794565510597516299
+    second: half_open_gothic_treasure_chest_sprite_22
+  - first:
+      213: 1570463824684472067
+    second: half_open_gothic_treasure_chest_sprite_23
+  - first:
+      213: 2938540857022776697
+    second: half_open_gothic_treasure_chest_sprite_24
+  - first:
+      213: 960814006892546616
+    second: half_open_gothic_treasure_chest_sprite_25
+  - first:
+      213: 4992224675017502145
+    second: half_open_gothic_treasure_chest_sprite_26
+  - first:
+      213: 6045163729021538844
+    second: half_open_gothic_treasure_chest_sprite_27
+  - first:
+      213: 1809285789552880176
+    second: half_open_gothic_treasure_chest_sprite_28
+  - first:
+      213: -7543931813696130539
+    second: half_open_gothic_treasure_chest_sprite_29
+  - first:
+      213: -1016719268337280331
+    second: half_open_gothic_treasure_chest_sprite_30
+  - first:
+      213: 5415429179128238759
+    second: half_open_gothic_treasure_chest_sprite_31
+  - first:
+      213: 402193413769536886
+    second: half_open_gothic_treasure_chest_sprite_32
+  - first:
+      213: -2352627376697934782
+    second: half_open_gothic_treasure_chest_sprite_33
+  - first:
+      213: 5882630714361174761
+    second: half_open_gothic_treasure_chest_sprite_34
+  - first:
+      213: 4558841202073781170
+    second: half_open_gothic_treasure_chest_sprite_35
+  - first:
+      213: -9053429602502751125
+    second: half_open_gothic_treasure_chest_sprite_36
+  - first:
+      213: -4933373446880647843
+    second: half_open_gothic_treasure_chest_sprite_37
+  - first:
+      213: 2599646057052237443
+    second: half_open_gothic_treasure_chest_sprite_38
+  - first:
+      213: -3063575184651687540
+    second: half_open_gothic_treasure_chest_sprite_39
+  - first:
+      213: 8253477112210508643
+    second: half_open_gothic_treasure_chest_sprite_40
+  - first:
+      213: 3309597971892599464
+    second: half_open_gothic_treasure_chest_sprite_41
+  - first:
+      213: 4470693198777151379
+    second: half_open_gothic_treasure_chest_sprite_42
+  - first:
+      213: -1457796276580029584
+    second: half_open_gothic_treasure_chest_sprite_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 996
+        width: 33
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76fffb053db12550800000000000000
+      internalID: 6134392202987566718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 998
+        width: 156
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434d6923ee396e2e0800000000000000
+      internalID: -2096825925234142156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 980
+        width: 147
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331099c1bab0c3b10800000000000000
+      internalID: 1962456367173796147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1077
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5dbd5040d5374f0800000000000000
+      internalID: -832219234273864193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1007
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e590c84834d9ec0800000000000000
+      internalID: -3558613893988655561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1022
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86ef951d9cd64be0800000000000000
+      internalID: -1493263659195963764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 980
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e8958dd103dad40800000000000000
+      internalID: 5597182816633327247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 658
+        width: 136
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56afc2c0afb5d150800000000000000
+      internalID: 5896829984295593566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 1062
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6707addcba4a77270800000000000000
+      internalID: 8248242300352360566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 793
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6575f92f6696f5bc0800000000000000
+      internalID: -3792196470344558762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 801
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d06611d4fbfd100800000000000000
+      internalID: 135036851569691950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 763
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ac68afefbb795a0800000000000000
+      internalID: -6514531632168908239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 765
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9434950a3d1b08fb0800000000000000
+      internalID: -4647519292959931575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 562
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a923edaf055ba8410800000000000000
+      internalID: 1480194786955506330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 585
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76342af5dc5bd100800000000000000
+      internalID: 133802688032028284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 465
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2e66d0d99048850800000000000000
+      internalID: 6378233542402826980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 467
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ec47b41513e310800000000000000
+      internalID: 1433012285152748363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 345
+        width: 38
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6bb2159df5a6b00800000000000000
+      internalID: 822575268922898089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ee10c08b72adf30800000000000000
+      internalID: 4601033640741301902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 294
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f99e82b2ede0b0800000000000000
+      internalID: -5697648697029297873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 310
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e3f8506fe5af370800000000000000
+      internalID: 8357096469287616155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 312
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecf1d509de4ed6c0800000000000000
+      internalID: -4116766315357537044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 288
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e64f6975b739d0800000000000000
+      internalID: -2794565510597516299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 272
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3075be227886bc510800000000000000
+      internalID: 1570463824684472067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 272
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97580d4275bc7c820800000000000000
+      internalID: 2938540857022776697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 274
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83acc08af3f755d00800000000000000
+      internalID: 960814006892546616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdab5954e1f74540800000000000000
+      internalID: 4992224675017502145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 245
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c129765026cb4e350800000000000000
+      internalID: 6045163729021538844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 240
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a267fe6dfdb1910800000000000000
+      internalID: 1809285789552880176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 208
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512bfd22cf19e4790800000000000000
+      internalID: -7543931813696130539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 238
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba16765633e3e1f0800000000000000
+      internalID: -1016719268337280331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 222
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a259307528772b40800000000000000
+      internalID: 5415429179128238759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 202
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6752cb667c0e49500800000000000000
+      internalID: 402193413769536886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 240
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c7f0b9dd9c95fd0800000000000000
+      internalID: -2352627376697934782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eadc4a977d43a150800000000000000
+      internalID: 5882630714361174761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 223
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c5056be1444f30800000000000000
+      internalID: 4558841202073781170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 224
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c41df5eb1cb5280800000000000000
+      internalID: -9053429602502751125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 224
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55a55afcf2298bb0800000000000000
+      internalID: -4933373446880647843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 206
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ee75cb05cc31420800000000000000
+      internalID: 2599646057052237443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 200
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c896220e99efb75d0800000000000000
+      internalID: -3063575184651687540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 184
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bcf1b64bd3a8270800000000000000
+      internalID: 8253477112210508643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 168
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaf20802dd0eed20800000000000000
+      internalID: 3309597971892599464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39feddc07c71b0e30800000000000000
+      internalID: 4470693198777151379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half_open_gothic_treasure_chest_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 17
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b6f8b920ed4cbe0800000000000000
+      internalID: -1457796276580029584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      half_open_gothic_treasure_chest_sprite_0: 6134392202987566718
+      half_open_gothic_treasure_chest_sprite_1: -2096825925234142156
+      half_open_gothic_treasure_chest_sprite_10: 135036851569691950
+      half_open_gothic_treasure_chest_sprite_11: -6514531632168908239
+      half_open_gothic_treasure_chest_sprite_12: -4647519292959931575
+      half_open_gothic_treasure_chest_sprite_13: 1480194786955506330
+      half_open_gothic_treasure_chest_sprite_14: 133802688032028284
+      half_open_gothic_treasure_chest_sprite_15: 6378233542402826980
+      half_open_gothic_treasure_chest_sprite_16: 1433012285152748363
+      half_open_gothic_treasure_chest_sprite_17: 822575268922898089
+      half_open_gothic_treasure_chest_sprite_18: 4601033640741301902
+      half_open_gothic_treasure_chest_sprite_19: -5697648697029297873
+      half_open_gothic_treasure_chest_sprite_2: 1962456367173796147
+      half_open_gothic_treasure_chest_sprite_20: 8357096469287616155
+      half_open_gothic_treasure_chest_sprite_21: -4116766315357537044
+      half_open_gothic_treasure_chest_sprite_22: -2794565510597516299
+      half_open_gothic_treasure_chest_sprite_23: 1570463824684472067
+      half_open_gothic_treasure_chest_sprite_24: 2938540857022776697
+      half_open_gothic_treasure_chest_sprite_25: 960814006892546616
+      half_open_gothic_treasure_chest_sprite_26: 4992224675017502145
+      half_open_gothic_treasure_chest_sprite_27: 6045163729021538844
+      half_open_gothic_treasure_chest_sprite_28: 1809285789552880176
+      half_open_gothic_treasure_chest_sprite_29: -7543931813696130539
+      half_open_gothic_treasure_chest_sprite_3: -832219234273864193
+      half_open_gothic_treasure_chest_sprite_30: -1016719268337280331
+      half_open_gothic_treasure_chest_sprite_31: 5415429179128238759
+      half_open_gothic_treasure_chest_sprite_32: 402193413769536886
+      half_open_gothic_treasure_chest_sprite_33: -2352627376697934782
+      half_open_gothic_treasure_chest_sprite_34: 5882630714361174761
+      half_open_gothic_treasure_chest_sprite_35: 4558841202073781170
+      half_open_gothic_treasure_chest_sprite_36: -9053429602502751125
+      half_open_gothic_treasure_chest_sprite_37: -4933373446880647843
+      half_open_gothic_treasure_chest_sprite_38: 2599646057052237443
+      half_open_gothic_treasure_chest_sprite_39: -3063575184651687540
+      half_open_gothic_treasure_chest_sprite_4: -3558613893988655561
+      half_open_gothic_treasure_chest_sprite_40: 8253477112210508643
+      half_open_gothic_treasure_chest_sprite_41: 3309597971892599464
+      half_open_gothic_treasure_chest_sprite_42: 4470693198777151379
+      half_open_gothic_treasure_chest_sprite_43: -1457796276580029584
+      half_open_gothic_treasure_chest_sprite_5: -1493263659195963764
+      half_open_gothic_treasure_chest_sprite_6: 5597182816633327247
+      half_open_gothic_treasure_chest_sprite_7: 5896829984295593566
+      half_open_gothic_treasure_chest_sprite_8: 8248242300352360566
+      half_open_gothic_treasure_chest_sprite_9: -3792196470344558762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

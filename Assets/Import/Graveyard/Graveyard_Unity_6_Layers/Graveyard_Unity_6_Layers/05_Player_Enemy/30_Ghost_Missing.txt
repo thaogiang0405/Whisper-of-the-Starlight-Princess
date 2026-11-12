@@ -1,0 +1,1 @@
+CHUA CO FILE PNG PHU HOP. Không có sprite Ghost trong những file ZIP hiện có; cần tải thêm hoặc tự vẽ các frame Idle/Move/Attack.

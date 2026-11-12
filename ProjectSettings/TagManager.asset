@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - PlayerSword
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1611693093
+    locked: 0
+  - name: Props_Back
+    uniqueID: 2004524211
+    locked: 0
+  - name: Wall
+    uniqueID: 3558556525
+    locked: 0
+  - name: Ground
+    uniqueID: 1368382957
+    locked: 0
+  - name: Player
+    uniqueID: 10821257
+    locked: 0
+  - name: Decoration
+    uniqueID: 4059027529
+    locked: 0
+  - name: Props_Front
+    uniqueID: 4185057595
+    locked: 0
+  - name: Foreground
+    uniqueID: 237983859
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: a01e76db306a8954e9c19c761ea8e799
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8209021588364343028
+    second: Background_Gothic_0
+  - first:
+      213: 92536788356148992
+    second: Background_Gothic_1
+  - first:
+      213: 8181479883787419789
+    second: Background_Gothic_2
+  - first:
+      213: 5608162013963981350
+    second: Background_Gothic_3
+  - first:
+      213: -664994377848950107
+    second: Background_Gothic_4
+  - first:
+      213: 6438845552348399140
+    second: Background_Gothic_5
+  - first:
+      213: -1832970130459757794
+    second: Background_Gothic_6
+  - first:
+      213: 2235591283282898053
+    second: Background_Gothic_7
+  - first:
+      213: 3598854121021471838
+    second: Background_Gothic_8
+  - first:
+      213: -3154078391505333939
+    second: Background_Gothic_9
+  - first:
+      213: -3559630214461660606
+    second: Background_Gothic_10
+  - first:
+      213: -4360460163148326426
+    second: Background_Gothic_11
+  - first:
+      213: -3372135392938276341
+    second: Background_Gothic_12
+  - first:
+      213: 3484935862167666727
+    second: Background_Gothic_13
+  - first:
+      213: -8937665053007356056
+    second: Background_Gothic_14
+  - first:
+      213: -7866505319443509084
+    second: Background_Gothic_15
+  - first:
+      213: -5261685322525008234
+    second: Background_Gothic_16
+  - first:
+      213: -5702936709479996451
+    second: Background_Gothic_17
+  - first:
+      213: 7957283256356732426
+    second: Background_Gothic_18
+  - first:
+      213: 3336772839791027630
+    second: Background_Gothic_19
+  - first:
+      213: -4253336994435895033
+    second: Background_Gothic_20
+  - first:
+      213: -2741628883486204860
+    second: Background_Gothic_21
+  - first:
+      213: -35607453138997474
+    second: Background_Gothic_22
+  - first:
+      213: 3607172445200010456
+    second: Background_Gothic_23
+  - first:
+      213: -2287232023439329825
+    second: Background_Gothic_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background_Gothic_0
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 934
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c700db52b31e80800000000000000
+      internalID: -8209021588364343028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_1
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 927
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00faf9ef7b1c84100800000000000000
+      internalID: 92536788356148992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 918
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8047226b947a8170800000000000000
+      internalID: 8181479883787419789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_3
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 893
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622992d63a134dd40800000000000000
+      internalID: 5608162013963981350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_4
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 922
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a27eaaf22775c6f0800000000000000
+      internalID: -664994377848950107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_5
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 835
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42684575aef5b5950800000000000000
+      internalID: 6438845552348399140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_6
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 932
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e137b0ab06bff86e0800000000000000
+      internalID: -1832970130459757794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1653
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c690f6d6a660f10800000000000000
+      internalID: 2235591283282898053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 889
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c7fe961c2b1f130800000000000000
+      internalID: 3598854121021471838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 903
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41d698f9667a34d0800000000000000
+      internalID: -3154078391505333939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 889
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e34ffd27a99ec0800000000000000
+      internalID: -3559630214461660606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 912
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e95d4695988c73c0800000000000000
+      internalID: -4360460163148326426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_12
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 903
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a4469f9b4c331d0800000000000000
+      internalID: -3372135392938276341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 914
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7200681e3bafc5030800000000000000
+      internalID: 3484935862167666727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_14
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 907
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fd212fcf807f380800000000000000
+      internalID: -8937665053007356056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_15
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 905
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a059da271f84d290800000000000000
+      internalID: -7866505319443509084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_16
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 896
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e9207a31dbaf6b0800000000000000
+      internalID: -5261685322525008234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_17
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 909
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3e8e637491bd0b0800000000000000
+      internalID: -5702936709479996451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_18
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 834
+        width: 127
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7e4056f2fd6e60800000000000000
+      internalID: 7957283256356732426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 835
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea56ae308399e4e20800000000000000
+      internalID: 3336772839791027630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 447
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701fe98e98c19f4c0800000000000000
+      internalID: -4253336994435895033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 321
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c9ad56e07c3f9d0800000000000000
+      internalID: -2741628883486204860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 313
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f2b44c53f718ff0800000000000000
+      internalID: -35607453138997474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_23
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 226
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc49bf2a304f0230800000000000000
+      internalID: 3607172445200010456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Gothic_24
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 17
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5300cc79e1240e0800000000000000
+      internalID: -2287232023439329825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background_Gothic_0: -8209021588364343028
+      Background_Gothic_1: 92536788356148992
+      Background_Gothic_10: -3559630214461660606
+      Background_Gothic_11: -4360460163148326426
+      Background_Gothic_12: -3372135392938276341
+      Background_Gothic_13: 3484935862167666727
+      Background_Gothic_14: -8937665053007356056
+      Background_Gothic_15: -7866505319443509084
+      Background_Gothic_16: -5261685322525008234
+      Background_Gothic_17: -5702936709479996451
+      Background_Gothic_18: 7957283256356732426
+      Background_Gothic_19: 3336772839791027630
+      Background_Gothic_2: 8181479883787419789
+      Background_Gothic_20: -4253336994435895033
+      Background_Gothic_21: -2741628883486204860
+      Background_Gothic_22: -35607453138997474
+      Background_Gothic_23: 3607172445200010456
+      Background_Gothic_24: -2287232023439329825
+      Background_Gothic_3: 5608162013963981350
+      Background_Gothic_4: -664994377848950107
+      Background_Gothic_5: 6438845552348399140
+      Background_Gothic_6: -1832970130459757794
+      Background_Gothic_7: 2235591283282898053
+      Background_Gothic_8: 3598854121021471838
+      Background_Gothic_9: -3154078391505333939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

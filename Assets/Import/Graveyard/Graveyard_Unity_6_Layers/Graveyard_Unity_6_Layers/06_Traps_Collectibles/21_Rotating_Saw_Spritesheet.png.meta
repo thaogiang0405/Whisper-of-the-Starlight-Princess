@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: c7e591bcd23d9c44697402fda3c2840f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6703578124802655069
+    second: 21_Rotating_Saw_Spritesheet_0
+  - first:
+      213: 6789767951572020457
+    second: 21_Rotating_Saw_Spritesheet_1
+  - first:
+      213: -6580073525280876156
+    second: 21_Rotating_Saw_Spritesheet_2
+  - first:
+      213: 4689985434986223971
+    second: 21_Rotating_Saw_Spritesheet_3
+  - first:
+      213: -390666065614668919
+    second: 21_Rotating_Saw_Spritesheet_4
+  - first:
+      213: -425234453198936632
+    second: 21_Rotating_Saw_Spritesheet_5
+  - first:
+      213: 3786329562380129968
+    second: 21_Rotating_Saw_Spritesheet_6
+  - first:
+      213: -3125001655660045530
+    second: 21_Rotating_Saw_Spritesheet_7
+  - first:
+      213: -4132160903880283238
+    second: 21_Rotating_Saw_Spritesheet_8
+  - first:
+      213: -8832156174966982306
+    second: 21_Rotating_Saw_Spritesheet_9
+  - first:
+      213: -1091861612910169730
+    second: 21_Rotating_Saw_Spritesheet_10
+  - first:
+      213: 8264236294483064281
+    second: 21_Rotating_Saw_Spritesheet_11
+  - first:
+      213: 54072672559313511
+    second: 21_Rotating_Saw_Spritesheet_12
+  - first:
+      213: -5320120663950097099
+    second: 21_Rotating_Saw_Spritesheet_13
+  - first:
+      213: 6970632899207981332
+    second: 21_Rotating_Saw_Spritesheet_14
+  - first:
+      213: -2661762338398991136
+    second: 21_Rotating_Saw_Spritesheet_15
+  - first:
+      213: 4667178987281836720
+    second: 21_Rotating_Saw_Spritesheet_16
+  - first:
+      213: -6955840450717553844
+    second: 21_Rotating_Saw_Spritesheet_17
+  - first:
+      213: -8738148614797765188
+    second: 21_Rotating_Saw_Spritesheet_18
+  - first:
+      213: 9173882640661790966
+    second: 21_Rotating_Saw_Spritesheet_19
+  - first:
+      213: -3759807863550437197
+    second: 21_Rotating_Saw_Spritesheet_20
+  - first:
+      213: -4955119168012656710
+    second: 21_Rotating_Saw_Spritesheet_21
+  - first:
+      213: -6967180861349490904
+    second: 21_Rotating_Saw_Spritesheet_22
+  - first:
+      213: 995594513058415447
+    second: 21_Rotating_Saw_Spritesheet_23
+  - first:
+      213: -2777179039806608911
+    second: 21_Rotating_Saw_Spritesheet_24
+  - first:
+      213: 765604720632033842
+    second: 21_Rotating_Saw_Spritesheet_25
+  - first:
+      213: 4687385421598115715
+    second: 21_Rotating_Saw_Spritesheet_26
+  - first:
+      213: -2035308661605349109
+    second: 21_Rotating_Saw_Spritesheet_27
+  - first:
+      213: 8163756161915250071
+    second: 21_Rotating_Saw_Spritesheet_28
+  - first:
+      213: -5471520937669334809
+    second: 21_Rotating_Saw_Spritesheet_29
+  - first:
+      213: -8753962272359737633
+    second: 21_Rotating_Saw_Spritesheet_30
+  - first:
+      213: 4259277565348601606
+    second: 21_Rotating_Saw_Spritesheet_31
+  - first:
+      213: 3927431303164542078
+    second: 21_Rotating_Saw_Spritesheet_32
+  - first:
+      213: -8768455883349320019
+    second: 21_Rotating_Saw_Spritesheet_33
+  - first:
+      213: 335249153196075074
+    second: 21_Rotating_Saw_Spritesheet_34
+  - first:
+      213: 7675773719672343381
+    second: 21_Rotating_Saw_Spritesheet_35
+  - first:
+      213: 5759027412152030133
+    second: 21_Rotating_Saw_Spritesheet_36
+  - first:
+      213: -6829680704925413318
+    second: 21_Rotating_Saw_Spritesheet_37
+  - first:
+      213: -7094094059325810727
+    second: 21_Rotating_Saw_Spritesheet_38
+  - first:
+      213: -8391543323384815438
+    second: 21_Rotating_Saw_Spritesheet_39
+  - first:
+      213: -1615445504333002761
+    second: 21_Rotating_Saw_Spritesheet_40
+  - first:
+      213: 2329219017822758188
+    second: 21_Rotating_Saw_Spritesheet_41
+  - first:
+      213: -7384942785612756164
+    second: 21_Rotating_Saw_Spritesheet_42
+  - first:
+      213: 2310911938920077521
+    second: 21_Rotating_Saw_Spritesheet_43
+  - first:
+      213: 1915864710714474983
+    second: 21_Rotating_Saw_Spritesheet_44
+  - first:
+      213: -1537560554197459753
+    second: 21_Rotating_Saw_Spritesheet_45
+  - first:
+      213: 313773356069561391
+    second: 21_Rotating_Saw_Spritesheet_46
+  - first:
+      213: 5103048507316189020
+    second: 21_Rotating_Saw_Spritesheet_47
+  - first:
+      213: 3978151664665505378
+    second: 21_Rotating_Saw_Spritesheet_48
+  - first:
+      213: 5757171810141529871
+    second: 21_Rotating_Saw_Spritesheet_49
+  - first:
+      213: 4990189470304165422
+    second: 21_Rotating_Saw_Spritesheet_50
+  - first:
+      213: -7956684287145628280
+    second: 21_Rotating_Saw_Spritesheet_51
+  - first:
+      213: 5515475165652988860
+    second: 21_Rotating_Saw_Spritesheet_52
+  - first:
+      213: -2131977212136402364
+    second: 21_Rotating_Saw_Spritesheet_53
+  - first:
+      213: 8069215182604815969
+    second: 21_Rotating_Saw_Spritesheet_54
+  - first:
+      213: 7832623166969753112
+    second: 21_Rotating_Saw_Spritesheet_55
+  - first:
+      213: 5025082409611718659
+    second: 21_Rotating_Saw_Spritesheet_56
+  - first:
+      213: 9210690865430027825
+    second: 21_Rotating_Saw_Spritesheet_57
+  - first:
+      213: 7890312212175237567
+    second: 21_Rotating_Saw_Spritesheet_58
+  - first:
+      213: 6077475975100481890
+    second: 21_Rotating_Saw_Spritesheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acfe0b663b18f2a0800000000000000
+      internalID: -6703578124802655069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 224
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec28cc6af91a3e50800000000000000
+      internalID: 6789767951572020457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 237
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895ea1ddf1eea4a0800000000000000
+      internalID: -6580073525280876156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 192
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3691c1e87ec261140800000000000000
+      internalID: 4689985434986223971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 192
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bfc3d7843149af0800000000000000
+      internalID: -390666065614668919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 237
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5e1de8483491af0800000000000000
+      internalID: -425234453198936632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 224
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b65a381daebb8430800000000000000
+      internalID: 3786329562380129968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 237
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b10e71d83c1a4d0800000000000000
+      internalID: -3125001655660045530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 192
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b65711d8d97a6c0800000000000000
+      internalID: -4132160903880283238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 192
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59f15ee0c0ed6580800000000000000
+      internalID: -8832156174966982306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71ba92e5ade8d0f0800000000000000
+      internalID: -1091861612910169730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 192
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5bd80cf1770b270800000000000000
+      internalID: 8264236294483064281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 205
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76234f72fca10c000800000000000000
+      internalID: 54072672559313511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 205
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5350a0f71722b26b0800000000000000
+      internalID: -5320120663950097099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 192
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41961f890b9acb060800000000000000
+      internalID: 6970632899207981332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 205
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec073f71458f0bd0800000000000000
+      internalID: -2661762338398991136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bae918af8625c040800000000000000
+      internalID: 4667178987281836720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 160
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4befa4b6f3e77f90800000000000000
+      internalID: -6955840450717553844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 173
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5586ca12cdbb680800000000000000
+      internalID: -8738148614797765188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0c4c708ad205f70800000000000000
+      internalID: 9173882640661790966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 128
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b81b5d1baa72dbc0800000000000000
+      internalID: -3759807863550437197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 173
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf50eabe51eb3bb0800000000000000
+      internalID: -4955119168012656710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 160
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f0d599be99f4f90800000000000000
+      internalID: -6967180861349490904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 173
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753cc2b4fef01dd00800000000000000
+      internalID: 995594513058415447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 128
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9aaae906a7579d0800000000000000
+      internalID: -2777179039806608911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 128
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23272a3ef69ff9a00800000000000000
+      internalID: 765604720632033842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38743b3c430fc0140800000000000000
+      internalID: 4687385421598115715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 128
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ccb84e8121c3e0800000000000000
+      internalID: -2035308661605349109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 141
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956ddfc9fc7b4170800000000000000
+      internalID: 8163756161915250071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 141
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e86b1152b04114b0800000000000000
+      internalID: -5471520937669334809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 128
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd693da91bda38680800000000000000
+      internalID: -8753962272359737633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 141
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fd46a016efb1b30800000000000000
+      internalID: 4259277565348601606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c3fd836f9018630800000000000000
+      internalID: 3927431303164542078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 96
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae9744d4df205680800000000000000
+      internalID: -8768455883349320019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 109
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248a08f145b07a400800000000000000
+      internalID: 335249153196075074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b4951b783d58a60800000000000000
+      internalID: 7675773719672343381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 64
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b31f013bec2cef40800000000000000
+      internalID: 5759027412152030133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 109
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30d49585991831a0800000000000000
+      internalID: -6829680704925413318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 96
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d71da60a07bc8d90800000000000000
+      internalID: -7094094059325810727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 109
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e854cecf3b8b80800000000000000
+      internalID: -8391543323384815438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 64
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7ca307fd8c499e0800000000000000
+      internalID: -1615445504333002761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 64
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25e8612b5c035020800000000000000
+      internalID: 2329219017822758188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bc7f0e9a9638990800000000000000
+      internalID: -7384942785612756164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 64
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d85a8a2a22021020800000000000000
+      internalID: 2310911938920077521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 77
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1c7dfbdc4869a10800000000000000
+      internalID: 1915864710714474983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 77
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc586282dc79aae0800000000000000
+      internalID: -1537560554197459753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 64
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f242284743fba5400800000000000000
+      internalID: 313773356069561391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 77
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573b2e849ba1d640800000000000000
+      internalID: 5103048507316189020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e2403acdb353730800000000000000
+      internalID: 3978151664665505378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07e06e224595ef40800000000000000
+      internalID: 5757171810141529871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2edf5352e6b04540800000000000000
+      internalID: 4990189470304165422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 33
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88da0c21ccd249190800000000000000
+      internalID: -7956684287145628280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb33c30e077ea8c40800000000000000
+      internalID: 5515475165652988860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 33
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442d1617502b962e0800000000000000
+      internalID: -2131977212136402364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 16
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e495fb47c9bff60800000000000000
+      internalID: 8069215182604815969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 45
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e2ab6754113bc60800000000000000
+      internalID: 7832623166969753112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 16
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30078f7d3ddacb540800000000000000
+      internalID: 5025082409611718659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 45
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e54e1ba82f2df70800000000000000
+      internalID: 9210690865430027825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1b1adf625008d60800000000000000
+      internalID: 7890312212175237567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Rotating_Saw_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261c5d21338875450800000000000000
+      internalID: 6077475975100481890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      21_Rotating_Saw_Spritesheet_0: -6703578124802655069
+      21_Rotating_Saw_Spritesheet_1: 6789767951572020457
+      21_Rotating_Saw_Spritesheet_10: -1091861612910169730
+      21_Rotating_Saw_Spritesheet_11: 8264236294483064281
+      21_Rotating_Saw_Spritesheet_12: 54072672559313511
+      21_Rotating_Saw_Spritesheet_13: -5320120663950097099
+      21_Rotating_Saw_Spritesheet_14: 6970632899207981332
+      21_Rotating_Saw_Spritesheet_15: -2661762338398991136
+      21_Rotating_Saw_Spritesheet_16: 4667178987281836720
+      21_Rotating_Saw_Spritesheet_17: -6955840450717553844
+      21_Rotating_Saw_Spritesheet_18: -8738148614797765188
+      21_Rotating_Saw_Spritesheet_19: 9173882640661790966
+      21_Rotating_Saw_Spritesheet_2: -6580073525280876156
+      21_Rotating_Saw_Spritesheet_20: -3759807863550437197
+      21_Rotating_Saw_Spritesheet_21: -4955119168012656710
+      21_Rotating_Saw_Spritesheet_22: -6967180861349490904
+      21_Rotating_Saw_Spritesheet_23: 995594513058415447
+      21_Rotating_Saw_Spritesheet_24: -2777179039806608911
+      21_Rotating_Saw_Spritesheet_25: 765604720632033842
+      21_Rotating_Saw_Spritesheet_26: 4687385421598115715
+      21_Rotating_Saw_Spritesheet_27: -2035308661605349109
+      21_Rotating_Saw_Spritesheet_28: 8163756161915250071
+      21_Rotating_Saw_Spritesheet_29: -5471520937669334809
+      21_Rotating_Saw_Spritesheet_3: 4689985434986223971
+      21_Rotating_Saw_Spritesheet_30: -8753962272359737633
+      21_Rotating_Saw_Spritesheet_31: 4259277565348601606
+      21_Rotating_Saw_Spritesheet_32: 3927431303164542078
+      21_Rotating_Saw_Spritesheet_33: -8768455883349320019
+      21_Rotating_Saw_Spritesheet_34: 335249153196075074
+      21_Rotating_Saw_Spritesheet_35: 7675773719672343381
+      21_Rotating_Saw_Spritesheet_36: 5759027412152030133
+      21_Rotating_Saw_Spritesheet_37: -6829680704925413318
+      21_Rotating_Saw_Spritesheet_38: -7094094059325810727
+      21_Rotating_Saw_Spritesheet_39: -8391543323384815438
+      21_Rotating_Saw_Spritesheet_4: -390666065614668919
+      21_Rotating_Saw_Spritesheet_40: -1615445504333002761
+      21_Rotating_Saw_Spritesheet_41: 2329219017822758188
+      21_Rotating_Saw_Spritesheet_42: -7384942785612756164
+      21_Rotating_Saw_Spritesheet_43: 2310911938920077521
+      21_Rotating_Saw_Spritesheet_44: 1915864710714474983
+      21_Rotating_Saw_Spritesheet_45: -1537560554197459753
+      21_Rotating_Saw_Spritesheet_46: 313773356069561391
+      21_Rotating_Saw_Spritesheet_47: 5103048507316189020
+      21_Rotating_Saw_Spritesheet_48: 3978151664665505378
+      21_Rotating_Saw_Spritesheet_49: 5757171810141529871
+      21_Rotating_Saw_Spritesheet_5: -425234453198936632
+      21_Rotating_Saw_Spritesheet_50: 4990189470304165422
+      21_Rotating_Saw_Spritesheet_51: -7956684287145628280
+      21_Rotating_Saw_Spritesheet_52: 5515475165652988860
+      21_Rotating_Saw_Spritesheet_53: -2131977212136402364
+      21_Rotating_Saw_Spritesheet_54: 8069215182604815969
+      21_Rotating_Saw_Spritesheet_55: 7832623166969753112
+      21_Rotating_Saw_Spritesheet_56: 5025082409611718659
+      21_Rotating_Saw_Spritesheet_57: 9210690865430027825
+      21_Rotating_Saw_Spritesheet_58: 7890312212175237567
+      21_Rotating_Saw_Spritesheet_59: 6077475975100481890
+      21_Rotating_Saw_Spritesheet_6: 3786329562380129968
+      21_Rotating_Saw_Spritesheet_7: -3125001655660045530
+      21_Rotating_Saw_Spritesheet_8: -4132160903880283238
+      21_Rotating_Saw_Spritesheet_9: -8832156174966982306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
