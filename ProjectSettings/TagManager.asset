@@ -6,6 +6,8 @@ TagManager:
   tags:
   - PlayerSword
   - Enemy
+  - EnemyAttack
+  - EnemyChaser
   layers:
   - Default
   - TransparentFX
