@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: 2999808978f2f78449e5f73bd5dd860a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7286763717081321824
+    second: ChestRewardPopup_0
+  - first:
+      213: 2689778844629339697
+    second: ChestRewardPopup_1
+  - first:
+      213: 4124036446948969953
+    second: ChestRewardPopup_2
+  - first:
+      213: -2759418659948600168
+    second: ChestRewardPopup_3
+  - first:
+      213: 3006706887016158887
+    second: ChestRewardPopup_4
+  - first:
+      213: -4307181760129444427
+    second: ChestRewardPopup_5
+  - first:
+      213: 173514692636070131
+    second: ChestRewardPopup_6
+  - first:
+      213: 672006713787512748
+    second: ChestRewardPopup_7
+  - first:
+      213: -1169152779994558124
+    second: ChestRewardPopup_8
+  - first:
+      213: -9035238970390901868
+    second: ChestRewardPopup_9
+  - first:
+      213: 6343339754643852965
+    second: ChestRewardPopup_10
+  - first:
+      213: 4134265984820612517
+    second: ChestRewardPopup_11
+  - first:
+      213: 3192061758037285742
+    second: ChestRewardPopup_12
+  - first:
+      213: 6149023435960860538
+    second: ChestRewardPopup_13
+  - first:
+      213: -1249612868429121589
+    second: ChestRewardPopup_14
+  - first:
+      213: 922326415250877021
+    second: ChestRewardPopup_15
+  - first:
+      213: 9092918931791264921
+    second: ChestRewardPopup_16
+  - first:
+      213: 3306305763355027023
+    second: ChestRewardPopup_17
+  - first:
+      213: -507660706688509871
+    second: ChestRewardPopup_18
+  - first:
+      213: 2392659377384755527
+    second: ChestRewardPopup_19
+  - first:
+      213: 4837967051574117515
+    second: ChestRewardPopup_20
+  - first:
+      213: 6965123720806554305
+    second: ChestRewardPopup_21
+  - first:
+      213: 4430313206766364900
+    second: ChestRewardPopup_22
+  - first:
+      213: -1109556808999183004
+    second: ChestRewardPopup_23
+  - first:
+      213: 4226423206275791339
+    second: ChestRewardPopup_24
+  - first:
+      213: -8675340874521979969
+    second: ChestRewardPopup_25
+  - first:
+      213: 2041556778257984436
+    second: ChestRewardPopup_26
+  - first:
+      213: 3894853085221217375
+    second: ChestRewardPopup_27
+  - first:
+      213: -3929202449566403943
+    second: ChestRewardPopup_28
+  - first:
+      213: -5874162476905501042
+    second: ChestRewardPopup_29
+  - first:
+      213: 950836237260994490
+    second: ChestRewardPopup_30
+  - first:
+      213: 7177764156094566595
+    second: ChestRewardPopup_31
+  - first:
+      213: 7743483880576037938
+    second: ChestRewardPopup_32
+  - first:
+      213: 6262609049994983625
+    second: ChestRewardPopup_33
+  - first:
+      213: -6742774065073319869
+    second: ChestRewardPopup_34
+  - first:
+      213: 6164975172987582697
+    second: ChestRewardPopup_35
+  - first:
+      213: -4120825069489967632
+    second: ChestRewardPopup_36
+  - first:
+      213: -8598981441171126100
+    second: ChestRewardPopup_37
+  - first:
+      213: 3035574899527376090
+    second: ChestRewardPopup_38
+  - first:
+      213: -5840704091473488753
+    second: ChestRewardPopup_39
+  - first:
+      213: -2925974965680450099
+    second: ChestRewardPopup_40
+  - first:
+      213: -7788423583544229922
+    second: ChestRewardPopup_41
+  - first:
+      213: 6450537326343806519
+    second: ChestRewardPopup_42
+  - first:
+      213: -1343867987980373289
+    second: ChestRewardPopup_43
+  - first:
+      213: -6985448002430913632
+    second: ChestRewardPopup_44
+  - first:
+      213: 1994919504075708270
+    second: ChestRewardPopup_45
+  - first:
+      213: 8752176161192669293
+    second: ChestRewardPopup_46
+  - first:
+      213: 3229084791015888148
+    second: ChestRewardPopup_47
+  - first:
+      213: -1867666196537534993
+    second: ChestRewardPopup_48
+  - first:
+      213: 2527200933618204718
+    second: ChestRewardPopup_49
+  - first:
+      213: -3705675117140550006
+    second: ChestRewardPopup_50
+  - first:
+      213: 656049257047610514
+    second: ChestRewardPopup_51
+  - first:
+      213: 7501889575856244604
+    second: ChestRewardPopup_52
+  - first:
+      213: 3613679606062053570
+    second: ChestRewardPopup_53
+  - first:
+      213: -2671110624766512617
+    second: ChestRewardPopup_54
+  - first:
+      213: -7127060107996791169
+    second: ChestRewardPopup_55
+  - first:
+      213: 2033895086607402
+    second: ChestRewardPopup_56
+  - first:
+      213: 3079387221908153047
+    second: ChestRewardPopup_57
+  - first:
+      213: 1424425808894785325
+    second: ChestRewardPopup_58
+  - first:
+      213: 6924179880585253418
+    second: ChestRewardPopup_59
+  - first:
+      213: 6615517240936251528
+    second: ChestRewardPopup_60
+  - first:
+      213: 520711323476199559
+    second: ChestRewardPopup_61
+  - first:
+      213: -7468696991356623545
+    second: ChestRewardPopup_62
+  - first:
+      213: 1053092735129813982
+    second: ChestRewardPopup_63
+  - first:
+      213: 1960194498005790088
+    second: ChestRewardPopup_64
+  - first:
+      213: 8978565801802903181
+    second: ChestRewardPopup_65
+  - first:
+      213: 832523279294667458
+    second: ChestRewardPopup_66
+  - first:
+      213: 3524985822989249670
+    second: ChestRewardPopup_67
+  - first:
+      213: -5372820088958626322
+    second: ChestRewardPopup_68
+  - first:
+      213: 9171336193082075953
+    second: ChestRewardPopup_69
+  - first:
+      213: -2243027698179331256
+    second: ChestRewardPopup_70
+  - first:
+      213: -6171061329560087458
+    second: ChestRewardPopup_71
+  - first:
+      213: 4116774644173736527
+    second: ChestRewardPopup_72
+  - first:
+      213: 3305537970738884168
+    second: ChestRewardPopup_73
+  - first:
+      213: 320035009558222834
+    second: ChestRewardPopup_74
+  - first:
+      213: 6729706020359769372
+    second: ChestRewardPopup_75
+  - first:
+      213: 2755736513420535931
+    second: ChestRewardPopup_76
+  - first:
+      213: 1238575052672878857
+    second: ChestRewardPopup_77
+  - first:
+      213: 8356840764291407231
+    second: ChestRewardPopup_78
+  - first:
+      213: -9139820539107569161
+    second: ChestRewardPopup_79
+  - first:
+      213: -3059157387169070853
+    second: ChestRewardPopup_80
+  - first:
+      213: -628881882295875739
+    second: ChestRewardPopup_81
+  - first:
+      213: -4318417715447015489
+    second: ChestRewardPopup_82
+  - first:
+      213: -4713678358025852585
+    second: ChestRewardPopup_83
+  - first:
+      213: -1633988643951556743
+    second: ChestRewardPopup_84
+  - first:
+      213: 3055838436212923200
+    second: ChestRewardPopup_85
+  - first:
+      213: 6690081549435383149
+    second: ChestRewardPopup_86
+  - first:
+      213: 3219563364708067503
+    second: ChestRewardPopup_87
+  - first:
+      213: -4351262442227347855
+    second: ChestRewardPopup_88
+  - first:
+      213: 543724886107044780
+    second: ChestRewardPopup_89
+  - first:
+      213: 1690180934931991483
+    second: ChestRewardPopup_90
+  - first:
+      213: -8622511765488619629
+    second: ChestRewardPopup_91
+  - first:
+      213: -7434761391244679637
+    second: ChestRewardPopup_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChestRewardPopup_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 734
+        width: 221
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aea929910730ea90800000000000000
+      internalID: -7286763717081321824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 753
+        width: 214
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0e7eab93045520800000000000000
+      internalID: 2689778844629339697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 753
+        width: 233
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed48256c458b3930800000000000000
+      internalID: 4124036446948969953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_3
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 738
+        width: 302
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894ed2b495394b9d0800000000000000
+      internalID: -2759418659948600168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 440
+        width: 573
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a69158cbf7f9b920800000000000000
+      internalID: 3006706887016158887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_5
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 71
+        width: 220
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b551747201d934c0800000000000000
+      internalID: -4307181760129444427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 127
+        width: 154
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f052e191b2786200800000000000000
+      internalID: 173514692636070131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 85
+        width: 226
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca77bf5bb82735900800000000000000
+      internalID: 672006713787512748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 91
+        width: 197
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4519344bdb556cfe0800000000000000
+      internalID: -1169152779994558124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_9
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 464
+        width: 205
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b8515f6026c9280800000000000000
+      internalID: -9035238970390901868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 455
+        width: 182
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae092df5e1180850800000000000000
+      internalID: 6343339754643852965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 452
+        width: 191
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad8638420ddf5930800000000000000
+      internalID: 4134265984820612517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChestRewardPopup_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8f81010c149e650800000000000000
+      internalID: 6262609049994983625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 324dd7c82493e474191dc2493b4fa1fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChestRewardPopup_0: -7286763717081321824
+      ChestRewardPopup_1: 2689778844629339697
+      ChestRewardPopup_10: 6343339754643852965
+      ChestRewardPopup_11: 4134265984820612517
+      ChestRewardPopup_12: 3192061758037285742
+      ChestRewardPopup_13: 6149023435960860538
+      ChestRewardPopup_14: -1249612868429121589
+      ChestRewardPopup_15: 922326415250877021
+      ChestRewardPopup_16: 9092918931791264921
+      ChestRewardPopup_17: 3306305763355027023
+      ChestRewardPopup_18: -507660706688509871
+      ChestRewardPopup_19: 2392659377384755527
+      ChestRewardPopup_2: 4124036446948969953
+      ChestRewardPopup_20: 4837967051574117515
+      ChestRewardPopup_21: 6965123720806554305
+      ChestRewardPopup_22: 4430313206766364900
+      ChestRewardPopup_23: -1109556808999183004
+      ChestRewardPopup_24: 4226423206275791339
+      ChestRewardPopup_25: -8675340874521979969
+      ChestRewardPopup_26: 2041556778257984436
+      ChestRewardPopup_27: 3894853085221217375
+      ChestRewardPopup_28: -3929202449566403943
+      ChestRewardPopup_29: -5874162476905501042
+      ChestRewardPopup_3: -2759418659948600168
+      ChestRewardPopup_30: 950836237260994490
+      ChestRewardPopup_31: 7177764156094566595
+      ChestRewardPopup_32: 7743483880576037938
+      ChestRewardPopup_33: 6262609049994983625
+      ChestRewardPopup_34: -6742774065073319869
+      ChestRewardPopup_35: 6164975172987582697
+      ChestRewardPopup_36: -4120825069489967632
+      ChestRewardPopup_37: -8598981441171126100
+      ChestRewardPopup_38: 3035574899527376090
+      ChestRewardPopup_39: -5840704091473488753
+      ChestRewardPopup_4: 3006706887016158887
+      ChestRewardPopup_40: -2925974965680450099
+      ChestRewardPopup_41: -7788423583544229922
+      ChestRewardPopup_42: 6450537326343806519
+      ChestRewardPopup_43: -1343867987980373289
+      ChestRewardPopup_44: -6985448002430913632
+      ChestRewardPopup_45: 1994919504075708270
+      ChestRewardPopup_46: 8752176161192669293
+      ChestRewardPopup_47: 3229084791015888148
+      ChestRewardPopup_48: -1867666196537534993
+      ChestRewardPopup_49: 2527200933618204718
+      ChestRewardPopup_5: -4307181760129444427
+      ChestRewardPopup_50: -3705675117140550006
+      ChestRewardPopup_51: 656049257047610514
+      ChestRewardPopup_52: 7501889575856244604
+      ChestRewardPopup_53: 3613679606062053570
+      ChestRewardPopup_54: -2671110624766512617
+      ChestRewardPopup_55: -7127060107996791169
+      ChestRewardPopup_56: 2033895086607402
+      ChestRewardPopup_57: 3079387221908153047
+      ChestRewardPopup_58: 1424425808894785325
+      ChestRewardPopup_59: 6924179880585253418
+      ChestRewardPopup_6: 173514692636070131
+      ChestRewardPopup_60: 6615517240936251528
+      ChestRewardPopup_61: 520711323476199559
+      ChestRewardPopup_62: -7468696991356623545
+      ChestRewardPopup_63: 1053092735129813982
+      ChestRewardPopup_64: 1960194498005790088
+      ChestRewardPopup_65: 8978565801802903181
+      ChestRewardPopup_66: 832523279294667458
+      ChestRewardPopup_67: 3524985822989249670
+      ChestRewardPopup_68: -5372820088958626322
+      ChestRewardPopup_69: 9171336193082075953
+      ChestRewardPopup_7: 672006713787512748
+      ChestRewardPopup_70: -2243027698179331256
+      ChestRewardPopup_71: -6171061329560087458
+      ChestRewardPopup_72: 4116774644173736527
+      ChestRewardPopup_73: 3305537970738884168
+      ChestRewardPopup_74: 320035009558222834
+      ChestRewardPopup_75: 6729706020359769372
+      ChestRewardPopup_76: 2755736513420535931
+      ChestRewardPopup_77: 1238575052672878857
+      ChestRewardPopup_78: 8356840764291407231
+      ChestRewardPopup_79: -9139820539107569161
+      ChestRewardPopup_8: -1169152779994558124
+      ChestRewardPopup_80: -3059157387169070853
+      ChestRewardPopup_81: -628881882295875739
+      ChestRewardPopup_82: -4318417715447015489
+      ChestRewardPopup_83: -4713678358025852585
+      ChestRewardPopup_84: -1633988643951556743
+      ChestRewardPopup_85: 3055838436212923200
+      ChestRewardPopup_86: 6690081549435383149
+      ChestRewardPopup_87: 3219563364708067503
+      ChestRewardPopup_88: -4351262442227347855
+      ChestRewardPopup_89: 543724886107044780
+      ChestRewardPopup_9: -9035238970390901868
+      ChestRewardPopup_90: 1690180934931991483
+      ChestRewardPopup_91: -8622511765488619629
+      ChestRewardPopup_92: -7434761391244679637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

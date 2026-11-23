@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: b2c8bd7df15301d4aa6407b2bae55f4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5440658633784239636
+    second: ExitDoor_Spritesheet_0
+  - first:
+      213: -2299462747526209730
+    second: ExitDoor_Spritesheet_1
+  - first:
+      213: -4341087553033012032
+    second: ExitDoor_Spritesheet_2
+  - first:
+      213: -1920040135446524755
+    second: ExitDoor_Spritesheet_3
+  - first:
+      213: -4655765458501152409
+    second: ExitDoor_Spritesheet_4
+  - first:
+      213: 2613709813107172924
+    second: ExitDoor_Spritesheet_5
+  - first:
+      213: 3972733606639507158
+    second: ExitDoor_Spritesheet_6
+  - first:
+      213: 7731494238460036103
+    second: ExitDoor_Spritesheet_7
+  - first:
+      213: 5974633773328417517
+    second: ExitDoor_Spritesheet_8
+  - first:
+      213: -8497716063220142955
+    second: ExitDoor_Spritesheet_9
+  - first:
+      213: 6035113957158906725
+    second: ExitDoor_Spritesheet_10
+  - first:
+      213: -2818251539391156823
+    second: ExitDoor_Spritesheet_11
+  - first:
+      213: -846711573855492882
+    second: ExitDoor_Spritesheet_12
+  - first:
+      213: 6458790804570256809
+    second: ExitDoor_Spritesheet_13
+  - first:
+      213: 5447419341995230854
+    second: ExitDoor_Spritesheet_14
+  - first:
+      213: -4170001298979185565
+    second: ExitDoor_Spritesheet_15
+  - first:
+      213: 3267229451346815427
+    second: ExitDoor_Spritesheet_16
+  - first:
+      213: 7644271464505532280
+    second: ExitDoor_Spritesheet_17
+  - first:
+      213: -3096633498020555411
+    second: ExitDoor_Spritesheet_18
+  - first:
+      213: 932004754790088857
+    second: ExitDoor_Spritesheet_19
+  - first:
+      213: -275072181539940112
+    second: ExitDoor_Spritesheet_20
+  - first:
+      213: -1234413314948081116
+    second: ExitDoor_Spritesheet_21
+  - first:
+      213: -2576982384105953582
+    second: ExitDoor_Spritesheet_22
+  - first:
+      213: -1059541843741125149
+    second: ExitDoor_Spritesheet_23
+  - first:
+      213: 295394249542968017
+    second: ExitDoor_Spritesheet_24
+  - first:
+      213: -1857461543669285995
+    second: ExitDoor_Spritesheet_25
+  - first:
+      213: 2162178441196221905
+    second: ExitDoor_Spritesheet_26
+  - first:
+      213: 5966955328104755911
+    second: ExitDoor_Spritesheet_27
+  - first:
+      213: -2341830210004731816
+    second: ExitDoor_Spritesheet_28
+  - first:
+      213: -6983595765198782879
+    second: ExitDoor_Spritesheet_29
+  - first:
+      213: 1298007338153561145
+    second: ExitDoor_Spritesheet_30
+  - first:
+      213: -4388722163660339955
+    second: ExitDoor_Spritesheet_31
+  - first:
+      213: -5379805667717572340
+    second: ExitDoor_Spritesheet_32
+  - first:
+      213: -5708987034966824697
+    second: ExitDoor_Spritesheet_33
+  - first:
+      213: -4803221605090585336
+    second: ExitDoor_Spritesheet_34
+  - first:
+      213: 7835642507482680136
+    second: ExitDoor_Spritesheet_35
+  - first:
+      213: 573329418736913056
+    second: ExitDoor_Spritesheet_36
+  - first:
+      213: 5906550953212668115
+    second: ExitDoor_Spritesheet_37
+  - first:
+      213: -1489628814414594113
+    second: ExitDoor_Spritesheet_38
+  - first:
+      213: 7995202218422780230
+    second: ExitDoor_Spritesheet_39
+  - first:
+      213: 117668597190129454
+    second: ExitDoor_Spritesheet_40
+  - first:
+      213: -6280055369260227097
+    second: ExitDoor_Spritesheet_41
+  - first:
+      213: 8481646136350061845
+    second: ExitDoor_Spritesheet_42
+  - first:
+      213: 8260610877953248685
+    second: ExitDoor_Spritesheet_43
+  - first:
+      213: 702671126419277301
+    second: ExitDoor_Spritesheet_44
+  - first:
+      213: -5867582908504285769
+    second: ExitDoor_Spritesheet_45
+  - first:
+      213: 6705072728778243980
+    second: ExitDoor_Spritesheet_46
+  - first:
+      213: -3977930227011042231
+    second: ExitDoor_Spritesheet_47
+  - first:
+      213: -1149271633732977541
+    second: ExitDoor_Spritesheet_48
+  - first:
+      213: -6026270038947300098
+    second: ExitDoor_Spritesheet_49
+  - first:
+      213: 8803556486345552481
+    second: ExitDoor_Spritesheet_50
+  - first:
+      213: 7666933195900648160
+    second: ExitDoor_Spritesheet_51
+  - first:
+      213: 1201893420170695817
+    second: ExitDoor_Spritesheet_52
+  - first:
+      213: 3398486754631439952
+    second: ExitDoor_Spritesheet_53
+  - first:
+      213: 157139129656908406
+    second: ExitDoor_Spritesheet_54
+  - first:
+      213: -2980662643878105262
+    second: ExitDoor_Spritesheet_55
+  - first:
+      213: 2652333766180513825
+    second: ExitDoor_Spritesheet_56
+  - first:
+      213: 1523232039579797559
+    second: ExitDoor_Spritesheet_57
+  - first:
+      213: 6872061923652598622
+    second: ExitDoor_Spritesheet_58
+  - first:
+      213: 6630533740236525136
+    second: ExitDoor_Spritesheet_59
+  - first:
+      213: -4949253791458410652
+    second: ExitDoor_Spritesheet_60
+  - first:
+      213: -3735257532540083465
+    second: ExitDoor_Spritesheet_61
+  - first:
+      213: -8820889069797053391
+    second: ExitDoor_Spritesheet_62
+  - first:
+      213: 7220036381227710022
+    second: ExitDoor_Spritesheet_63
+  - first:
+      213: 1743859976290408561
+    second: ExitDoor_Spritesheet_64
+  - first:
+      213: -361240324268471895
+    second: ExitDoor_Spritesheet_65
+  - first:
+      213: 3109254937502533371
+    second: ExitDoor_Spritesheet_66
+  - first:
+      213: -2259256176993556706
+    second: ExitDoor_Spritesheet_67
+  - first:
+      213: -8109488293160171127
+    second: ExitDoor_Spritesheet_68
+  - first:
+      213: 4491404594584599832
+    second: ExitDoor_Spritesheet_69
+  - first:
+      213: -4544911855588733785
+    second: ExitDoor_Spritesheet_70
+  - first:
+      213: 8364785994814127198
+    second: ExitDoor_Spritesheet_71
+  - first:
+      213: -4448324039646022509
+    second: ExitDoor_Spritesheet_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExitDoor_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 508
+        width: 382
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4162fda933a118b40800000000000000
+      internalID: 5440658633784239636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitDoor_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 519
+        width: 377
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fd47f60daa610e0800000000000000
+      internalID: -2299462747526209730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitDoor_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 515
+        width: 382
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccf89ededb51c3c0800000000000000
+      internalID: -4341087553033012032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitDoor_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 520
+        width: 367
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac873c6ba5aa55e0800000000000000
+      internalID: -1920040135446524755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitDoor_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 70
+        width: 390
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76151889bf5636fb0800000000000000
+      internalID: -4655765458501152409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitDoor_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 73
+        width: 372
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36a43c1a33c54420800000000000000
+      internalID: 2613709813107172924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitDoor_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 70
+        width: 394
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61103ba2cf12730800000000000000
+      internalID: 3972733606639507158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitDoor_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 76
+        width: 381
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704c362fb09cb4b60800000000000000
+      internalID: 7731494238460036103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1c7e916c7c2343e409b842a58592d99e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ExitDoor_Spritesheet_0: 5440658633784239636
+      ExitDoor_Spritesheet_1: -2299462747526209730
+      ExitDoor_Spritesheet_10: 6035113957158906725
+      ExitDoor_Spritesheet_11: -2818251539391156823
+      ExitDoor_Spritesheet_12: -846711573855492882
+      ExitDoor_Spritesheet_13: 6458790804570256809
+      ExitDoor_Spritesheet_14: 5447419341995230854
+      ExitDoor_Spritesheet_15: -4170001298979185565
+      ExitDoor_Spritesheet_16: 3267229451346815427
+      ExitDoor_Spritesheet_17: 7644271464505532280
+      ExitDoor_Spritesheet_18: -3096633498020555411
+      ExitDoor_Spritesheet_19: 932004754790088857
+      ExitDoor_Spritesheet_2: -4341087553033012032
+      ExitDoor_Spritesheet_20: -275072181539940112
+      ExitDoor_Spritesheet_21: -1234413314948081116
+      ExitDoor_Spritesheet_22: -2576982384105953582
+      ExitDoor_Spritesheet_23: -1059541843741125149
+      ExitDoor_Spritesheet_24: 295394249542968017
+      ExitDoor_Spritesheet_25: -1857461543669285995
+      ExitDoor_Spritesheet_26: 2162178441196221905
+      ExitDoor_Spritesheet_27: 5966955328104755911
+      ExitDoor_Spritesheet_28: -2341830210004731816
+      ExitDoor_Spritesheet_29: -6983595765198782879
+      ExitDoor_Spritesheet_3: -1920040135446524755
+      ExitDoor_Spritesheet_30: 1298007338153561145
+      ExitDoor_Spritesheet_31: -4388722163660339955
+      ExitDoor_Spritesheet_32: -5379805667717572340
+      ExitDoor_Spritesheet_33: -5708987034966824697
+      ExitDoor_Spritesheet_34: -4803221605090585336
+      ExitDoor_Spritesheet_35: 7835642507482680136
+      ExitDoor_Spritesheet_36: 573329418736913056
+      ExitDoor_Spritesheet_37: 5906550953212668115
+      ExitDoor_Spritesheet_38: -1489628814414594113
+      ExitDoor_Spritesheet_39: 7995202218422780230
+      ExitDoor_Spritesheet_4: -4655765458501152409
+      ExitDoor_Spritesheet_40: 117668597190129454
+      ExitDoor_Spritesheet_41: -6280055369260227097
+      ExitDoor_Spritesheet_42: 8481646136350061845
+      ExitDoor_Spritesheet_43: 8260610877953248685
+      ExitDoor_Spritesheet_44: 702671126419277301
+      ExitDoor_Spritesheet_45: -5867582908504285769
+      ExitDoor_Spritesheet_46: 6705072728778243980
+      ExitDoor_Spritesheet_47: -3977930227011042231
+      ExitDoor_Spritesheet_48: -1149271633732977541
+      ExitDoor_Spritesheet_49: -6026270038947300098
+      ExitDoor_Spritesheet_5: 2613709813107172924
+      ExitDoor_Spritesheet_50: 8803556486345552481
+      ExitDoor_Spritesheet_51: 7666933195900648160
+      ExitDoor_Spritesheet_52: 1201893420170695817
+      ExitDoor_Spritesheet_53: 3398486754631439952
+      ExitDoor_Spritesheet_54: 157139129656908406
+      ExitDoor_Spritesheet_55: -2980662643878105262
+      ExitDoor_Spritesheet_56: 2652333766180513825
+      ExitDoor_Spritesheet_57: 1523232039579797559
+      ExitDoor_Spritesheet_58: 6872061923652598622
+      ExitDoor_Spritesheet_59: 6630533740236525136
+      ExitDoor_Spritesheet_6: 3972733606639507158
+      ExitDoor_Spritesheet_60: -4949253791458410652
+      ExitDoor_Spritesheet_61: -3735257532540083465
+      ExitDoor_Spritesheet_62: -8820889069797053391
+      ExitDoor_Spritesheet_63: 7220036381227710022
+      ExitDoor_Spritesheet_64: 1743859976290408561
+      ExitDoor_Spritesheet_65: -361240324268471895
+      ExitDoor_Spritesheet_66: 3109254937502533371
+      ExitDoor_Spritesheet_67: -2259256176993556706
+      ExitDoor_Spritesheet_68: -8109488293160171127
+      ExitDoor_Spritesheet_69: 4491404594584599832
+      ExitDoor_Spritesheet_7: 7731494238460036103
+      ExitDoor_Spritesheet_70: -4544911855588733785
+      ExitDoor_Spritesheet_71: 8364785994814127198
+      ExitDoor_Spritesheet_72: -4448324039646022509
+      ExitDoor_Spritesheet_8: 5974633773328417517
+      ExitDoor_Spritesheet_9: -8497716063220142955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
