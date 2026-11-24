@@ -1,0 +1,1197 @@
+fileFormatVersion: 2
+guid: 9f89b94622d814f43a3d5a5b0987ced9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4743879139522183257
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_0"
+  - first:
+      213: -6062494757131071597
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_1"
+  - first:
+      213: -6568477774077182743
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_2"
+  - first:
+      213: 3765450741350321144
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_3"
+  - first:
+      213: 3380936378241433034
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_4"
+  - first:
+      213: -9105800960914722439
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_5"
+  - first:
+      213: -6374318625368905418
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_6"
+  - first:
+      213: -5650022053115118999
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_7"
+  - first:
+      213: -6702121094489536105
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_8"
+  - first:
+      213: -621105211322025778
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_9"
+  - first:
+      213: -3932127451867270161
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_10"
+  - first:
+      213: 7673089415527133527
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_11"
+  - first:
+      213: -5094842157248599654
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_12"
+  - first:
+      213: -2136883091357787541
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_13"
+  - first:
+      213: -481932843055006146
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_14"
+  - first:
+      213: -7232745723240683608
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_15"
+  - first:
+      213: -7321487609912280096
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_16"
+  - first:
+      213: -5139649861518410364
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_17"
+  - first:
+      213: -2345354950485928111
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_18"
+  - first:
+      213: 245703220710164819
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_19"
+  - first:
+      213: -2897294322481132136
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_20"
+  - first:
+      213: -5225910051685508158
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_21"
+  - first:
+      213: -3580359908253387072
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_22"
+  - first:
+      213: 1645649006703581117
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_23"
+  - first:
+      213: -2894375992623094727
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_24"
+  - first:
+      213: 4767479421021061527
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_25"
+  - first:
+      213: 9152183202562731787
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_26"
+  - first:
+      213: -8115278848242936664
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_27"
+  - first:
+      213: -4327818464131066867
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_28"
+  - first:
+      213: -161506106076412014
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_29"
+  - first:
+      213: 354589135242234732
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_30"
+  - first:
+      213: 795965325976362707
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_31"
+  - first:
+      213: 4935581912133061835
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_32"
+  - first:
+      213: -6256794082841555139
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_33"
+  - first:
+      213: -1321985981781515379
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_34"
+  - first:
+      213: -8034933042016738985
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_35"
+  - first:
+      213: 232942667298330184
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_36"
+  - first:
+      213: 5821406146818862785
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_37"
+  - first:
+      213: -6224744464853960765
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_38"
+  - first:
+      213: 4903134250458970380
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_39"
+  - first:
+      213: -5032231444369048393
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_40"
+  - first:
+      213: -356231904356161065
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_41"
+  - first:
+      213: -8686620778658832663
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_42"
+  - first:
+      213: -6338732651483956619
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_43"
+  - first:
+      213: 3266610654588023325
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_44"
+  - first:
+      213: 6264671367314366753
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_45"
+  - first:
+      213: 3155278796995765787
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_46"
+  - first:
+      213: -8455069079430661038
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_47"
+  - first:
+      213: 6391569235949040228
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_48"
+  - first:
+      213: 8674544630947441783
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_49"
+  - first:
+      213: -3950778167103584959
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_50"
+  - first:
+      213: -1750383048215253623
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_51"
+  - first:
+      213: -101795588574733355
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_52"
+  - first:
+      213: -4341036563696030599
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_53"
+  - first:
+      213: -7335089286571616534
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_54"
+  - first:
+      213: 4311434243220297308
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_55"
+  - first:
+      213: 7409854005713201789
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_56"
+  - first:
+      213: -8487169749438902159
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_57"
+  - first:
+      213: -6260208903532905066
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_58"
+  - first:
+      213: -7253225197750231407
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_59"
+  - first:
+      213: 8024502318359066496
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_60"
+  - first:
+      213: -4137114818190313593
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_61"
+  - first:
+      213: -6904513947590650639
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_62"
+  - first:
+      213: 4994007894320105066
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_63"
+  - first:
+      213: -1390549605663805839
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_64"
+  - first:
+      213: 7924746977305221559
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_65"
+  - first:
+      213: 1582722647262937745
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_66"
+  - first:
+      213: 2991269614657316754
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_67"
+  - first:
+      213: 2569997047748011599
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_68"
+  - first:
+      213: -4271706235205068672
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_69"
+  - first:
+      213: 7556379983537925028
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_70"
+  - first:
+      213: -607353154188070452
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_71"
+  - first:
+      213: 2233632008822750191
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_72"
+  - first:
+      213: -2067060447711869653
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_73"
+  - first:
+      213: 5316528599764519778
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_74"
+  - first:
+      213: 3410488791801381398
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_75"
+  - first:
+      213: 4981037233505360110
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_76"
+  - first:
+      213: -8578853727301023675
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_77"
+  - first:
+      213: 1445840154279156619
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_78"
+  - first:
+      213: 517199881552203005
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_79"
+  - first:
+      213: 1786821002397574764
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_80"
+  - first:
+      213: -1467594590795834521
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_81"
+  - first:
+      213: -2550498434877480764
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_82"
+  - first:
+      213: -8217057307521515489
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_83"
+  - first:
+      213: -9052700472399067092
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_84"
+  - first:
+      213: -4337981743555738915
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_85"
+  - first:
+      213: -8558597486775863647
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_86"
+  - first:
+      213: 5164986946240414270
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_87"
+  - first:
+      213: -5512158791528161161
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_88"
+  - first:
+      213: 5517111425411864810
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_89"
+  - first:
+      213: -4116940900633179169
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_90"
+  - first:
+      213: -668143978318039365
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_91"
+  - first:
+      213: 7409236121758047417
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_92"
+  - first:
+      213: 2326380271925601989
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_93"
+  - first:
+      213: -6491789261847852704
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_94"
+  - first:
+      213: 6442258566026155333
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_95"
+  - first:
+      213: 1839912129837119551
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_96"
+  - first:
+      213: -4025667577904939779
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_97"
+  - first:
+      213: -6376672034107570845
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_98"
+  - first:
+      213: -2228726390201886929
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_99"
+  - first:
+      213: 7541186566615844846
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_100"
+  - first:
+      213: -2648292728241957329
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_101"
+  - first:
+      213: -7429430082609887895
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_102"
+  - first:
+      213: 439058465383622812
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_103"
+  - first:
+      213: 1334322747605454276
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_104"
+  - first:
+      213: 6568299559611698752
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_105"
+  - first:
+      213: -6953445788097312271
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_106"
+  - first:
+      213: 964169637734296322
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_107"
+  - first:
+      213: 9144376974514268028
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_108"
+  - first:
+      213: -3474248076398366395
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_109"
+  - first:
+      213: -6251798382657753693
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_110"
+  - first:
+      213: -5237933484603875860
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_111"
+  - first:
+      213: 5878964090267502410
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_112"
+  - first:
+      213: -4562212305050808218
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_113"
+  - first:
+      213: -9040524648854978502
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_114"
+  - first:
+      213: -6334911214701835262
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_115"
+  - first:
+      213: -3655747640080888462
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_116"
+  - first:
+      213: -8219469644137774052
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_117"
+  - first:
+      213: 6538345277282641577
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_118"
+  - first:
+      213: 5349194112344811873
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_119"
+  - first:
+      213: 8457118212709714303
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_120"
+  - first:
+      213: 4365992554160107534
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_121"
+  - first:
+      213: 2083503294199130623
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_122"
+  - first:
+      213: 7114975372441223757
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_123"
+  - first:
+      213: -4388527882780802486
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_124"
+  - first:
+      213: 4917686982319989251
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_125"
+  - first:
+      213: 2862464640874930584
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_126"
+  - first:
+      213: 954958076296368820
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_127"
+  - first:
+      213: 4394664533129896121
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_128"
+  - first:
+      213: 311411758155318945
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_129"
+  - first:
+      213: 758211297050150365
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_130"
+  - first:
+      213: 6118950338533408341
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_131"
+  - first:
+      213: -4785865136498397563
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_132"
+  - first:
+      213: -2640090490373174738
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_133"
+  - first:
+      213: -6915821672108350820
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_134"
+  - first:
+      213: 3212032605274346880
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_135"
+  - first:
+      213: 1626708226563972739
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_136"
+  - first:
+      213: -1101371168876619336
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_137"
+  - first:
+      213: 5773545794989379593
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_138"
+  - first:
+      213: -8591821459682919345
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_139"
+  - first:
+      213: 5306687462236063746
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_140"
+  - first:
+      213: 2585837859752436913
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_141"
+  - first:
+      213: -5826452390218575334
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_142"
+  - first:
+      213: 8698822494757985453
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_143"
+  - first:
+      213: 5624275286159907836
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_144"
+  - first:
+      213: 8437174296332095973
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_145"
+  - first:
+      213: -3835771324715743434
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_146"
+  - first:
+      213: 8311993420431554688
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_147"
+  - first:
+      213: 240729453407532262
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_148"
+  - first:
+      213: 568907564871564612
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_149"
+  - first:
+      213: -4851855265382253362
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_150"
+  - first:
+      213: -9200251471071629138
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_151"
+  - first:
+      213: -3451950737702755796
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_152"
+  - first:
+      213: -4629077384141009386
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_153"
+  - first:
+      213: 908833029597898092
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_154"
+  - first:
+      213: -3315155745191578526
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_155"
+  - first:
+      213: 7968458759437996994
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_156"
+  - first:
+      213: -5199121788380790958
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_157"
+  - first:
+      213: 3569593801419638126
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_158"
+  - first:
+      213: -5911293513105082757
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_159"
+  - first:
+      213: -4834588492093657406
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_160"
+  - first:
+      213: 7918414898821089765
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_161"
+  - first:
+      213: 6850901353472154702
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_162"
+  - first:
+      213: -3249748798993712845
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_163"
+  - first:
+      213: 3336682685525955486
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_164"
+  - first:
+      213: 7257795297713433691
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_165"
+  - first:
+      213: 7399328646473809446
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_166"
+  - first:
+      213: -377485833375304016
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_167"
+  - first:
+      213: -1342666484443093122
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_168"
+  - first:
+      213: 8830947057626484648
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_169"
+  - first:
+      213: -5551526670562081944
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_170"
+  - first:
+      213: -5442212474364621771
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_171"
+  - first:
+      213: 2032054314971708791
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_172"
+  - first:
+      213: -5405790812712191165
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_173"
+  - first:
+      213: -3596978021780938418
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_174"
+  - first:
+      213: -8282593521782569461
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_175"
+  - first:
+      213: -6691553104864748124
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_176"
+  - first:
+      213: -3381105829260444380
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_177"
+  - first:
+      213: 6615935523157032885
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_178"
+  - first:
+      213: 9138145580301800608
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_179"
+  - first:
+      213: 1098867562228544650
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_180"
+  - first:
+      213: 3644163155653292740
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_181"
+  - first:
+      213: 5690876882188455104
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_182"
+  - first:
+      213: 4213034685773794322
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_183"
+  - first:
+      213: 497214204600443017
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_184"
+  - first:
+      213: -5673232808499710069
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_185"
+  - first:
+      213: -4043705109044713133
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_186"
+  - first:
+      213: 3884595287355543461
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_187"
+  - first:
+      213: -5131587170574684168
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_188"
+  - first:
+      213: -6767283117503880413
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_189"
+  - first:
+      213: 6379589216479083171
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_190"
+  - first:
+      213: -7930718753622650082
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_191"
+  - first:
+      213: 1072903547104300588
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_192"
+  - first:
+      213: 3311174783204827007
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_193"
+  - first:
+      213: -8663611633126632928
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_194"
+  - first:
+      213: 6340190382100176445
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_195"
+  - first:
+      213: 7790912957855658776
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_196"
+  - first:
+      213: 2376651077592809243
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_197"
+  - first:
+      213: -7718874744975471767
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_198"
+  - first:
+      213: 5205762881544699941
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_199"
+  - first:
+      213: -1408350655628823940
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_200"
+  - first:
+      213: -7777511473337845039
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_201"
+  - first:
+      213: -5459594744186646818
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_202"
+  - first:
+      213: 2669460370285807476
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_203"
+  - first:
+      213: 3110605315978013371
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_204"
+  - first:
+      213: 7863774886953996170
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_205"
+  - first:
+      213: -7875920508746049056
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_206"
+  - first:
+      213: -7332285928332383365
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_207"
+  - first:
+      213: -3845967191927044821
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_208"
+  - first:
+      213: 7548594383622342668
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_209"
+  - first:
+      213: -2394395977551306828
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_210"
+  - first:
+      213: 7962391601558895129
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_211"
+  - first:
+      213: 7549441986309827146
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_212"
+  - first:
+      213: -1520060705979849863
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_213"
+  - first:
+      213: -1881800282673407952
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_214"
+  - first:
+      213: -5356682101905128071
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_215"
+  - first:
+      213: -6870464372476865603
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_216"
+  - first:
+      213: -5372659435405739763
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_217"
+  - first:
+      213: -6118692514701162348
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_218"
+  - first:
+      213: 6405651935275314513
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_219"
+  - first:
+      213: 5775613061529417184
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_220"
+  - first:
+      213: 562823493954006637
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_221"
+  - first:
+      213: 3103222316743867802
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_222"
+  - first:
+      213: 7463877632330418465
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_223"
+  - first:
+      213: 2915418854091152826
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_224"
+  - first:
+      213: 7179231567141197117
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_225"
+  - first:
+      213: -1660554729376859621
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_226"
+  - first:
+      213: 1563171481380892387
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_227"
+  - first:
+      213: -2757903830807043065
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_228"
+  - first:
+      213: 8830370641352821955
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_229"
+  - first:
+      213: -7574448799576258433
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_230"
+  - first:
+      213: -5816216814115270194
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_231"
+  - first:
+      213: -4107397472771563850
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_232"
+  - first:
+      213: 6006167811891719166
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_233"
+  - first:
+      213: 6948844508308668828
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_234"
+  - first:
+      213: -455797111709828093
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_235"
+  - first:
+      213: 1404797838564778043
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_236"
+  - first:
+      213: 7126757387796626746
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_237"
+  - first:
+      213: 6225628052866341428
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_238"
+  - first:
+      213: 2881939590525399946
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_239"
+  - first:
+      213: -3899026491639743698
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_240"
+  - first:
+      213: -4623149445044495707
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_241"
+  - first:
+      213: -6865904593375591305
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_242"
+  - first:
+      213: 4102817134820778668
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_243"
+  - first:
+      213: -3129474398107494122
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_244"
+  - first:
+      213: 3138917735945855729
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_245"
+  - first:
+      213: -2903274561792144839
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_246"
+  - first:
+      213: 8247434924718597500
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_247"
+  - first:
+      213: -7244560608028036746
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_248"
+  - first:
+      213: 7392959769591156234
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_249"
+  - first:
+      213: -3936940037040837209
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_250"
+  - first:
+      213: -1313919126470220485
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_251"
+  - first:
+      213: -5185690293075447559
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_252"
+  - first:
+      213: -5265677643945459523
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_253"
+  - first:
+      213: -8464992987956872668
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_254"
+  - first:
+      213: -1325823996226691403
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_255"
+  - first:
+      213: -8247657630058845493
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_256"
+  - first:
+      213: -7077230163460763435
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_257"
+  - first:
+      213: 3846292789953042880
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_258"
+  - first:
+      213: -5087832870210946885
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_259"
+  - first:
+      213: 4147316596789611922
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_260"
+  - first:
+      213: 9073151273594388054
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_261"
+  - first:
+      213: 9134970458762092517
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_262"
+  - first:
+      213: 83071176031905088
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_263"
+  - first:
+      213: -6737682012516885235
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_264"
+  - first:
+      213: 5934354184492314910
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_265"
+  - first:
+      213: -2797849184043311962
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_266"
+  - first:
+      213: -6709047057488399042
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_267"
+  - first:
+      213: -2457678686584535803
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_268"
+  - first:
+      213: 3491697604189033828
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_269"
+  - first:
+      213: 4279157213744034809
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_270"
+  - first:
+      213: -5294220246544435523
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_271"
+  - first:
+      213: 3740392164244413692
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_272"
+  - first:
+      213: 5491347826020219379
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_273"
+  - first:
+      213: -8229493914954558200
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_274"
+  - first:
+      213: -209387008583967887
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_275"
+  - first:
+      213: -8191393225623956870
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_276"
+  - first:
+      213: -737349439628886708
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_277"
+  - first:
+      213: -2199331538989433260
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_278"
+  - first:
+      213: -4468421620820335777
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_279"
+  - first:
+      213: 2438226452684165776
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_280"
+  - first:
+      213: 1387509733964295366
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_281"
+  - first:
+      213: -4387675216723023776
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_282"
+  - first:
+      213: 5638632524097771497
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_283"
+  - first:
+      213: 4128637250061173388
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_284"
+  - first:
+      213: 609077507050975663
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_285"
+  - first:
+      213: 4620473525200753088
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_286"
+  - first:
+      213: 8782816590825293110
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_287"
+  - first:
+      213: -6420312338097405225
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_288"
+  - first:
+      213: -6948909285486014791
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_289"
+  - first:
+      213: -8243942233994960266
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_290"
+  - first:
+      213: -8356851129214524837
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_291"
+  - first:
+      213: -3369855956550207722
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_292"
+  - first:
+      213: 2880817314948479656
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_293"
+  - first:
+      213: 5619072573532125099
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_294"
+  - first:
+      213: 3392037577898732783
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_295"
+  - first:
+      213: 7615830713736904775
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_296"
+  - first:
+      213: 8822198150024555115
+    second: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_297"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 115
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9500b9871f4a5d140800000000000000
+      internalID: 4743879139522183257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_2"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecb419044418d4a0800000000000000
+      internalID: -6568477774077182743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_3"
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbca61cf71914430800000000000000
+      internalID: 3765450741350321144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdb64919bf7bee20800000000000000
+      internalID: 3380936378241433034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_5"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97174494542b1a180800000000000000
+      internalID: -9105800960914722439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_6"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639eab99bfed987a0800000000000000
+      internalID: -6374318625368905418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_7"
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a33f6b0e61791b0800000000000000
+      internalID: -5650022053115118999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_1"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2e8560a8bae8a419754e041770c970
+      internalID: -6062494757131071597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8cd2ea15b80570940863b9f219c9c12e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_0": 4743879139522183257
+      "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_1": -6062494757131071597
+      "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_2": -6568477774077182743
+      "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_3": 3765450741350321144
+      "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_4": 3380936378241433034
+      "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_5": -9105800960914722439
+      "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_6": -6374318625368905418
+      "B\u1ED9 sprite ki\u1EBFm s\u0129 chibi nh\u1EA3y 8 khung_7": -5650022053115118999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
